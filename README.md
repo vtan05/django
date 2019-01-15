@@ -1,4 +1,4 @@
-# Django Exercises  
+# Web Development 
 This repository contains exercises using the Django framework  
 
 Tutorial - Creating a Polls Website 
