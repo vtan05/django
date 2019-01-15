@@ -1,1 +1,1 @@
-# Django Exercises
+# My Personal Website
